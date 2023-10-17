@@ -1,6 +1,6 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background: linear-gradient( rgb(100, 100, 100),60%, rgb(250,100,150));
+    background: linear-gradient( rgb(52, 52, 52),60%, rgb(52,100,150));
     background-repeat: no-repeat;
     height: auto;
 }
